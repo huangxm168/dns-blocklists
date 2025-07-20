@@ -3,5 +3,5 @@
 ! Last modified: 20 Jul 2025 UTC+8
 ! Syntax: DNSBlock
 !
-||gstatic.com^
+||ampproject.org^
 ||googleadservices.com^
