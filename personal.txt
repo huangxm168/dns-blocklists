@@ -1,0 +1,7 @@
+[Sherman - Personal DNS Blocklist]
+! Title: Sherman's Personal DNS Blocklist
+! Last modified: 20 Jul 2025 UTC+8
+! Syntax: DNSBlock
+!
+||gstatic.com^
+||googleadservices.com^
